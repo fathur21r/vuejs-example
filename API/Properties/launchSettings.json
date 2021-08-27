@@ -14,8 +14,8 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "MSSQL": "Server=F21;Database=Test-VueJs;User Id=dbu;Password=asdf1234;Connection Timeout=1;Max Pool Size=1000;Min Pool Size=0",
-        "MYSQL": "server=wcwimj6zu5aaddlj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;user=njwfaj4fj3gcnrjy;database=bcst027xedzmqb2n;port=3306;password=nims1i8p60w51y8w",
+        "MSSQL": "",
+        "MYSQL": "",
         "ASPNETCORE_ENVIRONMENT": "Production",
         "DB": "MYSQL"
       }
