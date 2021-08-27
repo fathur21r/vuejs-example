@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>P:\Publish\Vuejs_CRUD</_PublishTargetUrl>
+    <History>True|2021-08-22T03:53:22.3749909Z;True|2021-08-21T10:28:37.9852516+07:00;True|2021-08-21T10:18:46.2662506+07:00;True|2021-08-20T23:49:10.8115209+07:00;False|2021-08-20T23:48:38.5405206+07:00;True|2021-08-20T23:07:28.5432748+07:00;</History>
+  </PropertyGroup>
+</Project>

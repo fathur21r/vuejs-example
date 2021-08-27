@@ -1,0 +1,45 @@
+P:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Repository.deps.json
+P:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Repository.dll
+P:\Vuejs_CRUD\Repository\bin\Debug\net5.0\ref\Repository.dll
+P:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Repository.pdb
+P:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Entity.dll
+P:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Entity.pdb
+P:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+P:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+P:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+P:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+P:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+P:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+P:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.dll
+P:\Vuejs_CRUD\Repository\obj\Debug\net5.0\ref\Repository.dll
+P:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.pdb
+D:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Repository.dll
+D:\Vuejs_CRUD\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Entity.dll
+D:\Vuejs_CRUD\Repository\bin\Debug\net5.0\Entity.pdb
+D:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.dll
+D:\Vuejs_CRUD\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Vuejs_CRUD\Repository\obj\Debug\net5.0\Repository.pdb
+D:\dev azure\Vue Js\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\dev azure\Vue Js\Repository\bin\Debug\net5.0\Repository.dll
+D:\dev azure\Vue Js\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\dev azure\Vue Js\Repository\bin\Debug\net5.0\Repository.pdb
+D:\dev azure\Vue Js\Repository\bin\Debug\net5.0\Entity.dll
+D:\dev azure\Vue Js\Repository\bin\Debug\net5.0\Entity.pdb
+D:\dev azure\Vue Js\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\dev azure\Vue Js\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev azure\Vue Js\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\dev azure\Vue Js\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\dev azure\Vue Js\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\dev azure\Vue Js\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\dev azure\Vue Js\Repository\obj\Debug\net5.0\Repository.dll
+D:\dev azure\Vue Js\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\dev azure\Vue Js\Repository\obj\Debug\net5.0\Repository.pdb

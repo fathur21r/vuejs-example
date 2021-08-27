@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{B23367DA-99B6-44EF-A92C-2170AA69CCA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "Entity\Entity.csproj", "{5A8ADD9C-A63D-4E77-B017-05950B6891C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{8613EBD5-4499-424F-AF6D-763CC26F5BF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VueJs", "VueJs\VueJs.csproj", "{3ECD1E50-CF43-4046-B8DC-943C8D5C5DB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23367DA-99B6-44EF-A92C-2170AA69CCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23367DA-99B6-44EF-A92C-2170AA69CCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23367DA-99B6-44EF-A92C-2170AA69CCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23367DA-99B6-44EF-A92C-2170AA69CCA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8ADD9C-A63D-4E77-B017-05950B6891C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8ADD9C-A63D-4E77-B017-05950B6891C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8ADD9C-A63D-4E77-B017-05950B6891C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8ADD9C-A63D-4E77-B017-05950B6891C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8613EBD5-4499-424F-AF6D-763CC26F5BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8613EBD5-4499-424F-AF6D-763CC26F5BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8613EBD5-4499-424F-AF6D-763CC26F5BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8613EBD5-4499-424F-AF6D-763CC26F5BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECD1E50-CF43-4046-B8DC-943C8D5C5DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECD1E50-CF43-4046-B8DC-943C8D5C5DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECD1E50-CF43-4046-B8DC-943C8D5C5DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECD1E50-CF43-4046-B8DC-943C8D5C5DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76FAE18B-802F-4989-A17A-BFB9C9E4FC3B}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/fathurrahmanap27
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = API\\API.csproj
+		SccProjectName1 = API
+		SccLocalPath1 = API
+		SccProjectUniqueName2 = Entity\\Entity.csproj
+		SccProjectName2 = Entity
+		SccLocalPath2 = Entity
+		SccProjectUniqueName3 = Repository\\Repository.csproj
+		SccProjectName3 = Repository
+		SccLocalPath3 = Repository
+		SccProjectUniqueName4 = VueJs\\VueJs.csproj
+		SccProjectName4 = VueJs
+		SccLocalPath4 = VueJs
+	EndGlobalSection
+EndGlobal
